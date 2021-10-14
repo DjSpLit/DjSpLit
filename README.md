@@ -1,4 +1,4 @@
-![Header](https://github.com/DjSpLit/DjSpLit/blob/main/assets/1.gif)
+![Header](https://github.com/DjSpLit/DjSpLit/blob/main/assets/2.png)
 
 About me
 
