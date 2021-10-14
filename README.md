@@ -12,4 +12,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
 
-Follow Me
+My stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjSpLit&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
