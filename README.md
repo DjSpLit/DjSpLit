@@ -1,4 +1,4 @@
-![Header](https://github.com/DjSpLit/DjSpLit/blob/main/assets/giphy.gif)
+<img src="https://github.com/DjSpLit/DjSpLit/blob/main/assets/giphy.gif" alt="Центрируем изображение" class="center-img" />
 
 ## Hi, my name is Vlad:
 + I'm 17 years old;
