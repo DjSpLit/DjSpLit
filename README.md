@@ -1,4 +1,4 @@
-![Header](https://github.com/DjSpLit/DjSpLit/blob/main/assets/8.jpg)
+![Header](https://github.com/DjSpLit/DjSpLit/blob/main/assets/giphy.gif)
 
 ## Hi, my name is Vlad:
 + I'm 17 years old;
