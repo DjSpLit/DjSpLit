@@ -1,4 +1,4 @@
-<img src="https://github.com/DjSpLit/DjSpLit/blob/main/assets/cab7239d6003720d27655950f5c4716e.gif" alt="Центрируем изображение" class="center-img"/>
+
 
 ## Hi, my name is Vlad:
 + I'm 17 years old;
