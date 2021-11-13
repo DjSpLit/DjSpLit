@@ -1,4 +1,7 @@
 
+<p align="center">
+<img src ="777.png">
+
 
 ## Hi, my name is Vlad:
 + I'm 17 years old;
