@@ -22,8 +22,8 @@
 
 
 
-My stats:
+### My stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjSpLit&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DjSpLit&count_private=true&show_icons=true&theme=dark)
 
 
