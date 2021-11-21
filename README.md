@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src ="777.png">
+<img src ="50.png">
 
 
 ## Hi, my name is Vlad:
