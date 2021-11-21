@@ -5,7 +5,7 @@
 
 ## Hi, my name is Vlad:
 + I'm 17 years old;
-+ I like anime 😊;
++ I am fond of web hacking;
 + My favorite programming language is Python 🐍
 
 ### Languages and Tools
@@ -16,6 +16,9 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=flat-square&logo=Wireshark)
 ![Windows10](https://img.shields.io/badge/-Windows_10-000?style=flat-square&logo=Windows)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?style=flat-square&logo=VisualStudioCode)
+![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?style=flat-square&logo=VisualStudio)
+![Sublime Text 3](https://img.shields.io/badge/-Sublime_Text_3-000?style=flat-square&logo=SublimeText)
 
 
 
