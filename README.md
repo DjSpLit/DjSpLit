@@ -8,7 +8,7 @@
 + I am fond of web hacking;
 + My favorite programming language is Python 🐍
 
-### Languages and Tools
+### Skills and Tools
 ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-Html-000?style=flat-square&logo=HTML5)
 ![css](https://img.shields.io/badge/-css-000?style=flat-square&logo=CSS3&logoColor=39c)
@@ -19,11 +19,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?style=flat-square&logo=VisualStudioCode)
 ![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?style=flat-square&logo=VisualStudio)
 ![Sublime Text 3](https://img.shields.io/badge/-Sublime_Text_3-000?style=flat-square&logo=SublimeText)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logo=UBUNTU)
+
 
 
 
 ### My stats:
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DjSpLit&count_private=true&show_icons=true&theme=dark)
 
 
