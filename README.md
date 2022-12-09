@@ -1,12 +1,12 @@
 
 <p align="center">
-<img src ="50.png">
+<img src ="oooo.jpg">
 
 
-## Hi, my name is Vlad:
-+ I'm 17 years old;
-+ I am fond of web hacking;
-+ My favorite programming language is Python 🐍
+## Now let's move on to me:
++ I'm studying to be a cyber security specialist 👨🏻‍💻
++ I'm also exploring the field of OSINT 🕵️‍♂️ 
++ Sometimes I write code in Python
 
 ### Skills and Tools
 ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=Python)
